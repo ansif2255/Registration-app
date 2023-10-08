@@ -20,6 +20,16 @@
 
   <dependencies>
 	  <!-- https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
+<!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<!-- https://mvnrepository.com/artifact/org.anyline/anyline-jdbc-mysql -->
+<!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+
 <dependency>
     <groupId>jakarta.servlet</groupId>
     <artifactId>jakarta.servlet-api</artifactId>
